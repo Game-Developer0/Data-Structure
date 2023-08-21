@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\stack using linked list\FileName.cpp(32): warning C4715: 'push': not all control paths return a value
+C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\stack using linked list\FileName.cpp(46): warning C4715: 'Pop': not all control paths return a value
+  stack using linked list.vcxproj -> C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\x64\Debug\stack using linked list.exe

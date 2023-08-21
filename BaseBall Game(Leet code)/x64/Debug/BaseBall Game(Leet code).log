@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\BaseBall Game(Leet code)\FileName.cpp(53,17): warning C4101: 'num2': unreferenced local variable
+C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\BaseBall Game(Leet code)\FileName.cpp(49): warning C4715: 'Stack::Pop': not all control paths return a value
+  BaseBall Game(Leet code).vcxproj -> C:\Users\Hashim Cheema\Desktop\My codes\Data Structure\x64\Debug\BaseBall Game(Leet code).exe
